@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48"
+   height="48"
+   viewBox="0 0 48.000001 48"
+   id="svg4148"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="gnome-chess.svg">
+  <title
+     id="title4159">Boston Icons</title>
+  <defs
+     id="defs4150" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#0f0f0f"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="15.839192"
+     inkscape:cx="17.359119"
+     inkscape:cy="15.353935"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     showguides="false"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1366"
+     inkscape:window-height="704"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4696" />
+    <sodipodi:guide
+       position="0,37"
+       orientation="1,0"
+       id="guide4698" />
+    <sodipodi:guide
+       position="7.0000001,48"
+       orientation="0,1"
+       id="guide4700" />
+    <sodipodi:guide
+       position="48.000001,37"
+       orientation="1,0"
+       id="guide4702" />
+    <sodipodi:guide
+       position="36.000001,0"
+       orientation="0,1"
+       id="guide4704" />
+    <sodipodi:guide
+       position="16,40"
+       orientation="1,0"
+       id="guide4706" />
+    <sodipodi:guide
+       position="32.000001,46"
+       orientation="1,0"
+       id="guide4708" />
+    <sodipodi:guide
+       position="24,40"
+       orientation="1,0"
+       id="guide4710" />
+    <sodipodi:guide
+       position="8.0000002,44"
+       orientation="1,0"
+       id="guide4712" />
+    <sodipodi:guide
+       position="40.000001,41"
+       orientation="1,0"
+       id="guide4714" />
+    <sodipodi:guide
+       position="2,40"
+       orientation="0,1"
+       id="guide4716" />
+    <sodipodi:guide
+       position="3.0000001,32"
+       orientation="0,1"
+       id="guide4718" />
+    <sodipodi:guide
+       position="7.0000001,24"
+       orientation="0,1"
+       id="guide4720" />
+    <sodipodi:guide
+       position="3.0000001,16"
+       orientation="0,1"
+       id="guide4722" />
+    <sodipodi:guide
+       position="8.0000002,8"
+       orientation="0,1"
+       id="guide4724" />
+    <sodipodi:guide
+       position="2,27"
+       orientation="1,0"
+       id="guide4158" />
+    <sodipodi:guide
+       position="7.0000001,46"
+       orientation="0,1"
+       id="guide4160" />
+    <sodipodi:guide
+       position="46.000001,36"
+       orientation="1,0"
+       id="guide4162" />
+    <sodipodi:guide
+       position="30.000001,2"
+       orientation="0,1"
+       id="guide4164" />
+    <sodipodi:guide
+       position="12,40"
+       orientation="0,1"
+       id="guide4179" />
+    <sodipodi:guide
+       position="43.000001,43"
+       orientation="-0.70710678,0.70710678"
+       id="guide4369" />
+    <sodipodi:guide
+       position="11,37"
+       orientation="0.70710678,0.70710678"
+       id="guide4371" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata4153">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Boston Icons</dc:title>
+        <dc:description>diazchris.deviantart.com</dc:description>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Chris D</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Chris D</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-1004.3622)">
+    <path
+       style="opacity:1;fill:#1a1d20;fill-opacity:1;fill-rule:nonzero;stroke:#13151a;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 10,2 0,6 0,4 5,6 L 14.091797,37 11,37 c -0.554,0 -1,0.44599 -1,1 l 0,2 -1,0 c -0.554,0 -1,0.446 -1,1 l 0,4 0,1 32,0 0,-1 0,-4 c -0.01385,-0.5538 -0.446,-1 -1,-1 l -1,0 0,-2 c 0,-0.55401 -0.446,-1 -1,-1 l -3,0 -1,-19 5,-6 0,-4 0,-6 -4,0 0,6 -6,0 0,-6 -8,0 0,6 -6,0 0,-6 z"
+       transform="translate(0,1004.3622)"
+       id="rect4733"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccsscsscccccscsscccccccccccccc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#13151a;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 15,1022.3622 18,0"
+       id="path4756"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#13151a;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 10,1016.3622 28,0"
+       id="path4758"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#13151a;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 14,1041.3622 2,0"
+       id="path4760"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#13151a;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 18,1041.3622 16,0"
+       id="path4762"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="opacity:1;fill:#464d56;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4772"
+       width="2"
+       height="2.0000174"
+       x="12"
+       y="1042.3622" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#13151a;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 10,1044.3622 4,0"
+       id="path4764"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#13151a;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 16,1044.3622 22,0"
+       id="path4766"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="opacity:1;fill:#464d56;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4768"
+       width="2"
+       height="7.0000172"
+       x="11"
+       y="1007.3622" />
+    <path
+       style="opacity:1;fill:#464d56;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 16,1023.3622 2,0 0,17 -2.5,0 z"
+       id="rect4770"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <rect
+       style="opacity:1;fill:#464d56;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4774"
+       width="2"
+       height="4.0000172"
+       x="9"
+       y="1045.3622" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#13151a;stroke-width:1px;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 14,1041.3622 -2,0"
+       id="path4776"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#13151a;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 10,1016.3622 28,0 -5,6 -18,0 -5,-6"
+       id="path4830"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+  </g>
+</svg>

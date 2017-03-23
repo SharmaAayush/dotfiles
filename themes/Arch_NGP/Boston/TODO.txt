@@ -1,0 +1,15 @@
+bitcoin-qt
+litecoin-qt
+cool-retro-term
+dolphin-emu
+vba-m
+desmume
+atom-editor
+Mahjongg
+Open shot video
+Orca
+Rhythmbox
+Passwords
+Hexchat
+
+
