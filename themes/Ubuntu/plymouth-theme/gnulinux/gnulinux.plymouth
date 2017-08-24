@@ -1,9 +1,0 @@
-[Plymouth Theme]
-Name=gnulinux
-Description=GNU/Linux YingYang boot screen
-ModuleName=script
-
-[script]
-ImageDir=/lib/plymouth/themes/gnulinux
-ScriptFile=/lib/plymouth/themes/gnulinux/gnulinux.script
-
